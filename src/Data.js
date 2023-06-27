@@ -23,7 +23,7 @@ export default [
         id: 3,
         location: "Jama Masjid",
         country: "India",
-        googleMapsUrl: "https://goo.gl/maps/CAhz5MCCcTaPobpX8",
+        googleMapsUrl: "https://goo.gl/maps/MX5PcGkb6ic3hzut9",
         startDate: "9 September, 2023",
         endDate: "25 September, 2023",
         description: "Jama Masjid is India's largest mosque commissioned by Mughal Emperor Shah Jahan, who also built the Taj Mahal and Red Fort. It is built from marble and red sandstone with Islamic architecture and carvings.",
